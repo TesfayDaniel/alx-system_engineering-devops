@@ -1,8 +1,2 @@
 #!/bin/bash
-read -p "Please enter an absolute pathway"
-if test -d $REPLY
-then
-    ls -l $REPLY
-else
-    echo "This is not a directory"
-fi
+pwd
