@@ -2,6 +2,7 @@ What happens when you type google.com in your browser and press Enter
 Reviewing and encapsulating networking knowledge and skills I had been learning and practicing over the last month, in this project, I wrote a blog post answering the classic interview question - what happens when you enter [generic website] into a browser and hit Enter?
 
 Tasks 📃
+
 0. What happens when...
 
 0-blog_post: Text file containing the link to my blog post.
@@ -19,7 +20,9 @@ Load-balancer.
 Web server.
 Application server.
 Database.
+
  1. Everything's better with a pretty diagram
+ 
 1-what_happen_when_diagram contains the URL of a diagram image that addresses the following requirements.
 
 The diagram must be added to your blog post and should illustrate the flow of the request created when you type https://www.google.com in your browser and press Enter.
@@ -32,8 +35,11 @@ That the request is distributed via a load balancer.
 That the web server answers the request by serving a web page.
 That the application server generates the web page.
 That the application server request data from the database.
+
  2. Contribute!
+ 
 0-world_wide_web contains a URL to a pull request that contributes to the section here, which is a question that folks on the internet have been trying to provide a comprehensive answer to.
 
 Requirements:
+
 The pull request must bring meaningful value (not a typo correction or style improvement).
